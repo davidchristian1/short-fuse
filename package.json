@@ -1,0 +1,26 @@
+{
+  "name": "short-fuse",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Short Fuse — an original endless bomb-sorting arcade game for the browser.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "npm run typecheck && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "assets": "node scripts/generate-svg-assets.mjs",
+    "assets:bg": "node scripts/process-backgrounds.mjs"
+  },
+  "dependencies": {
+    "phaser": "^3.90.0"
+  },
+  "devDependencies": {
+    "sharp": "^0.35.5",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.5",
+    "vitest": "^5.0.5"
+  }
+}

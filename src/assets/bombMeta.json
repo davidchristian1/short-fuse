@@ -1,0 +1,24 @@
+{
+  "fuseTips": {
+    "ember": {
+      "tipX": 74,
+      "tipY": 7,
+      "size": 128
+    },
+    "midnight": {
+      "tipX": 74,
+      "tipY": 7,
+      "size": 128
+    },
+    "aqua": {
+      "tipX": 74,
+      "tipY": -1,
+      "size": 128
+    },
+    "moss": {
+      "tipX": 74,
+      "tipY": 13,
+      "size": 128
+    }
+  }
+}

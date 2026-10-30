@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+    <circle cx="92" cy="52" r="27" fill="#1d1630"/><circle cx="124" cy="40" r="33" fill="#1d1630"/><circle cx="158" cy="54" r="27" fill="#1d1630"/><circle cx="110" cy="62" r="23" fill="#1d1630"/><circle cx="142" cy="66" r="23" fill="#1d1630"/><circle cx="92" cy="52" r="22" fill="#bdb3cc"/><circle cx="124" cy="40" r="28" fill="#bdb3cc"/><circle cx="158" cy="54" r="22" fill="#bdb3cc"/><circle cx="110" cy="62" r="18" fill="#bdb3cc"/><circle cx="142" cy="66" r="18" fill="#bdb3cc"/><circle cx="85.4" cy="45.4" r="9.9" fill="#ffffff" opacity="0.6"/><circle cx="115.6" cy="31.6" r="12.6" fill="#ffffff" opacity="0.6"/><circle cx="151.4" cy="47.4" r="9.9" fill="#ffffff" opacity="0.6"/><circle cx="104.6" cy="56.6" r="8.1" fill="#ffffff" opacity="0.6"/><circle cx="136.6" cy="60.6" r="8.1" fill="#ffffff" opacity="0.6"/>
+    <ellipse cx="128" cy="236" rx="70" ry="10" fill="#000000" opacity="0.25"/>
+    <path d="M86 224 C80 212 96 206 108 210 C112 222 104 230 86 224 Z M170 224 C176 212 160 206 148 210 C144 222 152 230 170 224 Z" fill="#4a3b5c" stroke="#1d1630" stroke-width="5" stroke-linejoin="round"/>
+    <circle cx="128" cy="150" r="78" fill="#1d1630"/>
+    <defs><radialGradient id="soot" cx="38%" cy="32%" r="80%"><stop offset="0" stop-color="#9a8fae"/><stop offset="0.5" stop-color="#5b5070"/><stop offset="1" stop-color="#2a2238"/></radialGradient></defs>
+    <circle cx="128" cy="150" r="72" fill="url(#soot)"/>
+    <circle cx="96" cy="196" r="10" fill="#2a2238" opacity="0.6"/><circle cx="170" cy="120" r="8" fill="#2a2238" opacity="0.6"/>
+    <ellipse cx="96" cy="104" rx="20" ry="10" fill="#ffffff" opacity="0.35" transform="rotate(-30 96 104)"/>
+    <rect x="114" y="66" width="28" height="18" rx="4" fill="#8b93a8" stroke="#1d1630" stroke-width="4"/>
+    <path d="M128 66 C124 56 132 52 130 46" fill="none" stroke="#2a1a10" stroke-width="7" stroke-linecap="round"/>
+    <path d="M90 128 L112 150 M112 128 L90 150 M144 128 L166 150 M166 128 L144 150" stroke="#1d1630" stroke-width="8" stroke-linecap="round"/>
+    <path d="M102 184 Q116 172 128 184 Q140 196 154 184" fill="none" stroke="#1d1630" stroke-width="7" stroke-linecap="round"/>
+    <rect x="150" y="160" width="34" height="14" rx="4" fill="#ffe0c4" stroke="#1d1630" stroke-width="3" transform="rotate(-25 167 167)"/>
+    <polygon points="221.76,91.1 217.72,98.55 223.05,105.15 214.71,103.6 210.09,110.71 208.98,102.31 200.79,100.11 208.44,96.45 208,87.98 213.84,94.13" fill="#ffe14d" stroke="#1d1630" stroke-width="3" stroke-linejoin="round"/><polygon points="60.45,92.37 59.14,100.75 66.38,105.17 58,106.52 56.03,114.77 52.17,107.22 43.72,107.9 49.7,101.89 46.44,94.05 54.01,97.89" fill="#ffe14d" stroke="#1d1630" stroke-width="3" stroke-linejoin="round"/><polygon points="123.77,64.47 121.42,72.62 128.05,77.91 119.57,78.2 116.58,86.14 113.69,78.16 105.22,77.78 111.91,72.56 109.66,64.39 116.69,69.14" fill="#ffe14d" stroke="#1d1630" stroke-width="3" stroke-linejoin="round"/></svg>
